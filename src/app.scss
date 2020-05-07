@@ -1,0 +1,9 @@
+@import 'normalize-scss';
+@include normalize();
+
+app-root {
+  header {
+    font-size: 64px;
+    text-align: center;
+  }
+}
